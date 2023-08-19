@@ -22,12 +22,5 @@ I am a PhD candidate in the College of Computing department at Mohammed VI Polyt
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/teaching.md %}
-
-{% include_relative _includes/talks.md %}
-
-{% include_relative _includes/contact.md %}
