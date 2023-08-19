@@ -9,10 +9,10 @@ email: imane (dot) elabid (at) um6p (dot) ma
 # Search Engine Optimization (SEO)
 keywords: ImaneElabid, Imane El Abid, Imane elabid
 #canonical: https://minimal-light-theme-mpi-inf.yliu.me/
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+#description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 
 # The option is used to enable the MPI Informatics template.
-enable_mpi_logo: true
+#enable_mpi_logo: true
 
 # The option is used to show the last update time.
 enable_last_update: false
@@ -39,6 +39,7 @@ data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.
 
 # The following files will be removed from the generated website.
 exclude:
+  - build.sh
   - Gemfile
   - Gemfile.lock
   - README.md
