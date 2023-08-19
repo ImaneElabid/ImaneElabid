@@ -1,0 +1,28 @@
+main:
+
+  - title: LighTx: a lightweight transactions transfer system
+    authors: <strong>Imane El Abid</strong> , Yahya Benkaouz
+    conference_short: ICBC
+    conference: IEEE International Conference on Blockchain and Cryptocurrency <strong>(ICBC)</strong>, 2021.
+    pdf:  https://www.researchgate.net/profile/Imane-El-Abid/publication/352724888_LighTx_a_lightweight_transactions_transfer_system/links/64e0009f14f8d173380a65fc/LighTx-a-lightweight-transactions-transfer-system.pdf
+    bibtex: https://dblp.org/rec/conf/icbc2/AbidB21.html?view=bibtex
+    #image: https://img.yliu.me/teaser/dst.png
+    page: https://ieeexplore.ieee.org/document/9461134
+
+  - title: LighTx: A Lightweight Proof-of-Bandwidth Transactions Transfer System
+    authors: <strong>Imane El Abid</strong> , Yahya Benkaouz, Ahmed Khoumsi
+    conference_short: NETYS
+    conference: International Conference on Networked Systems <strong>(NETYS)</strong>, 2021.
+    pdf: https://www.researchgate.net/profile/Imane-El-Abid/publication/356672919_LighTx_A_Lightweight_Proof-of-Bandwidth_Transactions_Transfer_System/links/6329e0b00a708521500b1466/LighTx-A-Lightweight-Proof-of-Bandwidth-Transactions-Transfer-System.pdf
+    code: https://github.com/ImaneElabid/LighTx
+    bibtex: https://dblp.org/rec/conf/netys/AbidBK21.html?view=bibtex
+    #image: https://img.yliu.me/teaser/miccai2023.png
+    page: https://link.springer.com/chapter/10.1007/978-3-030-91014-3_10
+
+
+  - title: From Immutable to Mutable Blockchains: A Comprehensive Analysis of Redaction Approaches
+    authors: <strong>Imane El Abid</strong> , Yahya Benkaouz
+    journal: Under review
+    code: https://github.com/ImaneElabid/Redactable-blockchains
+
+    #image: https://img.yliu.me/teaser/cvpr23_1.png

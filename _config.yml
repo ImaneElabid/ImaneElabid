@@ -3,11 +3,12 @@ title: Imane El Abid
 position: PhD candidate
 affiliation: Mohammed VI Polytechnic University (UM6P)
 affiliation_link: https://um6p.ma/
+affiliation_logo: ./assets/img/logo.png
 email: imane (dot) elabid (at) um6p (dot) ma
 
 # Search Engine Optimization (SEO)
-keywords: minimal light
-canonical: https://minimal-light-theme-mpi-inf.yliu.me/
+keywords: ImaneElabid, Imane El Abid, Imane elabid
+#canonical: https://minimal-light-theme-mpi-inf.yliu.me/
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 
 # The option is used to enable the MPI Informatics template.
